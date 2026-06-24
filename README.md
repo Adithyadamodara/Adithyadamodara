@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋 I'm Adithya
 
-**Someone who loves exploring tech and experimenting with new technology. Building solutions for helping daily users.**
+**Someone who loves exploring tech and experimenting with new technology. Enthusiastic about building solutions for helping daily users.**
 
 ---
 
@@ -50,8 +50,9 @@ Here are some ideas to get you started:
 * **[Self-Healing MLOps Pipeline](Insert_Link_Here):** A robust system bridging machine learning deployment with highly scalable infrastructure.
 * **[NLP Customer Review Analyzer](Insert_Link_Here):** Leveraging unsupervised learning and clustering techniques to extract actionable user insights.
 * **[Project Three Name](Insert_Link_Here):** A brief description of the tools used and the problem solved.
-!-->
 ---
+!-->
+
 
 ### 📫 Let's Connect
 
